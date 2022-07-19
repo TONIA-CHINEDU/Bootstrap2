@@ -1,0 +1,51 @@
+ /* .img-fluid{
+    margin-left: 480px; 
+    margin-bottom: 25px;                                               
+}
+
+.text-bold{
+    font-size: 50px;
+    margin-left: 480px;
+}
+
+hr{
+
+}  */
+
+.divider-left{
+    background-color: white !important;
+    height:5px !important;
+    border-radius: 2px;
+    width:150px;
+}
+.bi-1{
+    color: white !important;
+}
+
+
+.h-auto{
+    background-color: rgb(8, 123, 71);
+}
+.col-lg-12{
+
+box-shadow: 10px;
+}
+.p-5{
+    font-size: 30px;
+}
+
+.footer{
+    background-color:black;
+}
+
+.divider-left-a{
+    background-color: black !important;
+    height:5px !important;
+    border-radius: 2px;
+    width:150px;
+}
+.collapse :hover{
+    color: green   
+}
+
+
